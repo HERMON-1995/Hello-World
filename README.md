@@ -9,12 +9,12 @@
     - Tech Stack
     - 🚀 Live Demo
     - 💻 Getting Started
-      -Setup
-      -Prerequisites
-      -Install
-      -Usage
-      -Run tests
-      -Deployment 
+     -Setup
+     -Prerequisites
+     -Install
+     -Usage
+     -Run tests
+     -Deployment 
 👥 Authors
 🔭 Future Features
 🤝 Contributing
