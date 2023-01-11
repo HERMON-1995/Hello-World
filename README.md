@@ -8,13 +8,13 @@
     - [Key Features](#key-features)
     - Tech Stack
     - 🚀 Live Demo
-  💻 Getting Started
-Setup
-Prerequisites
-Install
-Usage
-Run tests
-Deployment
+    - 💻 Getting Started
+      -Setup
+      -Prerequisites
+      -Install
+      -Usage
+      -Run tests
+      -Deployment 
 👥 Authors
 🔭 Future Features
 🤝 Contributing
