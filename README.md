@@ -1,81 +1,146 @@
 # Hello-World
 
-📗 Table of Contents
-📖 About the Project
-🛠 Built With
-Tech Stack
-Key Features
-🚀 Live Demo
-💻 Getting Started
-Setup
-Prerequisites
-Install
-Usage
-Run tests
-Deployment
-👥 Authors
-🔭 Future Features
-🤝 Contributing
-⭐️ Show your support
-🙏 Acknowledgements
-📝 License
+<a name="readme-top"></a>
 
-[Hello World] is a simple project of Html and Css.
+<!-- TABLE OF CONTENTS -->
 
-🛠 Built With
-  #[Git and GitHub] 
-  
-  Tech Stack
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 [Hello_World] <a name="about-project"></a>
+
+**[Hello_World]** is a simple project of Html and Css.
+
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
 Client
 
 Key Features
 
-[Set-up-microverse-project]
+[Html-css-branch]
 
-Key Features
-[Set-up-microverse-project]
-🚀 Live Demo
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
 
-Live Demo
+<!-- Features -->
 
-💻 Getting Started You can checkout the linters to make your code clean.
+### Key Features <a name="key-features"></a>
 
-To get a local copy up and running, follow these steps.
+- **[Html-css-branch]**
 
-Prerequisites In order to run this project you need: Git, GitHub, vs code, linters...
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Setup Clone this repository to your desired folder: https://github.com/HERMON-1995/Hello-World
+<!-- LIVE DEMO -->
 
-Install Install this project with: npm
+## 🚀 Live Demo <a name="live-demo"></a>
 
-Usage To run the project, execute the following command: cd my-folder git clone git@github.com:HERMON-1995/Hello-world.git
+- (https://github.com/HERMON-1995/Hello-World))
 
-Run tests To run tests, run the following command:
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Deployment You can deploy this project using:
+<!-- GETTING STARTED -->
 
-Setup
+## 💻 Getting Started <a name="getting-started"></a>
+
+### Prerequisites
+
+In order to run this project you need:
+
+```sh
+ to use Git and GitHub
+ vs code
+```
+
+### Setup
+
+Clone this repository to your desired folder: https://github.com/HERMON-1995/Hello-World
+
+```sh
   cd my-folder
-  git clone git@github.com:HERMON-1995/Hello-world.git
-👥 Author
-👤 Author1
+  git clone git@github.com:myaccount/my-project.git
+```
+### Install
 
-GitHub: @githubhandle
+### Usage
 
-LinkedIn: LinkedIn
+### Run tests
 
-🤝 Contributing
+### Deployment
 
-Feel free to check the issues page.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-(back to top)
+<!-- AUTHORS -->
 
-⭐️ Show your support
+## 👥 Authors <a name="authors"></a>
 
-If you like this project please show your support.
+👤 **Author1**
 
-🙏 Acknowledgments
-I would like to thank Microverse for giving me this opportunity.
+- GitHub: [@githubhandle](https://github.com/HERMON-1995)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hermon-gebre-03290a228/)
+- 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-📝 License
-This project is MIT licensed.
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project please show support.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse for giving me this opportunity. 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
